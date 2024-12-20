@@ -7,7 +7,6 @@ A Flask-based Library Management System that supports CRUD operations for managi
 ## Features
 - **Manage Books**: Add, update, delete, and view books.
 - **Manage Members**: Add, update, delete, and view members.
-- **Pagination**: View members and books in a paginated format.
 - **Database**: MySQL database integration using SQLAlchemy ORM.
 
 ---
@@ -40,7 +39,7 @@ A Flask-based Library Management System that supports CRUD operations for managi
 ### Step 1: Clone the Repository
 To begin, clone the repository to your local system:
   ```bash
-  git clone https://github.com/username/library-system.git
+  git clone https://github.com/Arpreetkhare/library-System.git
   cd library-system
 ```
 
